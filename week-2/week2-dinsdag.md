@@ -9,6 +9,7 @@
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 - Ik heb samen met Matteo en Arno de laatste aanpassingen gedaan aan het design. We hebben ook nog de functie om van taal te switchen erbij gezet.
+- Ik heb vandaag het logo voor SwimSafe gemaakt.
 - Ik ben gestart met het coderen van de landing page.
 
 
