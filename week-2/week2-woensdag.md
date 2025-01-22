@@ -15,6 +15,7 @@
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
  
 - Ik heb geleerd hoe moet werken met svg's in code.
+- Ik heb geleerd om te werken met branches.
 
 ---
 
