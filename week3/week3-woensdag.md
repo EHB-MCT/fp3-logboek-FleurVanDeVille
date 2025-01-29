@@ -23,4 +23,5 @@
 
 - Vandaag voelde ik me gewoontjes. Ik voel me lastig dat ik heel de dag aan de poster heb gewerkt doordat ik iets goed wil afleveren maar hierdoor neemt dit veel tijd in.
 
+
 ---
